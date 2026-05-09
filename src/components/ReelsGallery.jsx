@@ -10,8 +10,8 @@ import 'swiper/css/pagination';
 const reelsData = [
   {
     id: 1,
-    videoImg: 'https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?auto=format&fit=crop&q=80&w=600',
-    thumbImg: 'https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?auto=format&fit=crop&q=80&w=100',
+    videoImg: 'https://images.unsplash.com/photo-1614098097306-c67b8020c04e?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    thumbImg: 'https://images.unsplash.com/photo-1614098097306-c67b8020c04e?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     category: 'RTW',
     title: 'SHIRT, TROUSER',
     price: 'PKR 12,990',
